@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="img/previewSite" width="100%">
+  <img src="img/previewSite.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,7 +29,7 @@ O meu repositório tem o foco em divulgar minhas competências.
 
 - [Acesse o projeto finalizado, online]()
 
-## :memo: Licença
+## 🪪 Licença
 
 Esse projeto está sob a licença MIT.
 
