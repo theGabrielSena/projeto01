@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O meu repositório tem o foco em divulgar minhas competências.
 
-- [Acesse o projeto finalizado, online](https://thegabrielsena.github.io/projeto01/)
+- [Acesse o projeto finalizado, online](https://thegabrielsena.github.io/projeto01---NodeShop/)
 
 ## 🪪 Licença
 
